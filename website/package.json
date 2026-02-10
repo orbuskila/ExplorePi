@@ -34,7 +34,7 @@
     "react-timeago": "^7.1.0",
     "react-toastify": "^9.1.1",
     "server-only": "^0.0.1",
-    "stellar-sdk": "^11.2.2"
+    "stellar-sdk": "^13.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
